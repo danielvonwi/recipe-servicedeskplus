@@ -1,14 +1,14 @@
 {
-  "id": "whatsapp",
-  "name": "WhatsApp",
-  "version": "1.0.22",
-  "description": "WhatsApp",
+  "id": "servicedeskplus",
+  "name": "ServiceDesk Plus",
+  "version": "0.0.1",
+  "description": "ManageEngine ServiceDesk Plus",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Daniel Wittich <daniel.wittich@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.whatsapp.com",
-    "hasNotificationSound": true,
+    "serviceURL": "https://sdpondemand.manageengine.com",
+    "hasNotificationSound": false,
     "disablewebsecurity": true
   }
 }
